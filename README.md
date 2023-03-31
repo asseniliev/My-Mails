@@ -1,6 +1,6 @@
 # My-Mails
 
-[Link to Vercel](https://my-mails-psi.vercel.app/)
+[Link to Vercel deployment](https://my-mails-psi.vercel.app/)
 
 My mail is a simple one-page application developped in duration of 3 days as part of the 
 fullstack web development bootcamp in La Capsule (Lyon, 2023). 
