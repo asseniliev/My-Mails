@@ -7,7 +7,7 @@ fullstack web development bootcamp in La Capsule (Lyon, 2023).
 
 ![My Mail](frontPage.jpg)
 
-II Functionality available:
+Functionality available:
 1. Add a new message using the "New message" field and the "Add" button
 2. Delete a message using the ✖ icon at the message right-hand side 
 3. Automatic update of the messages' counter
